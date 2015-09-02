@@ -25,7 +25,7 @@ Here are the characteristics of a "Growth Mindset":
   - learns from criticism
   - finds lessons and inspiration in the success of others
 
-
+I must admit that I do not always nobly follow these bullet points, I wish I did but I don't. But I guess part of the thinking with a Growth Mindset is embracing challenges and one of the first challenges of this course will be embracing the challenge of accepting a Growth Mindset, or the Rigt Mindset, instead of a Fixed Mindset. 
 
 
 
