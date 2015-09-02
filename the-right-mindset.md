@@ -17,5 +17,15 @@ Major themes from the Carol Dweck TED Talk:
 
 - Carol Dweck uses the term "Growth Mindset" while we are using "Right Mindset." 
 
+Here are the characteristics of a "Growth Mindset":
+  - http://www.brainpickings.org/2014/01/29/carol-dweck-mindset/
+  - embraces challenges
+  - persists in the face of setbacks
+  - sees effort as the path to mastery
+  - learns from criticism
+  - finds lessons and inspiration in the success of others
+
+
+
 
 
