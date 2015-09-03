@@ -28,3 +28,9 @@ I must admit that I do not always nobly follow these bullet points, I wish I did
 
 Outline:
 Thesis - A student's learning efforts should focus on the Right Mindset because it allows most individuals to learn in the most effective way without damaging their spirit. 
+
+Paragraph 1: Intro to Growth Mindset
+
+Paragraph 2: How Growth Mindset relates to the Right Mindset
+
+Paragraph 3: How it relates to my experience at the Iron Yard
