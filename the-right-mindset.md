@@ -34,3 +34,8 @@ Paragraph 1: Intro to Growth Mindset
 Paragraph 2: How Growth Mindset relates to the Right Mindset
 
 Paragraph 3: How it relates to my experience at the Iron Yard
+
+changes changes changes changes changes changes
+changes changes changes changes changes changes 
+ changes changes changes changes changes
+ changes changes changes changes changes 
