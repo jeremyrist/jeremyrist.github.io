@@ -25,3 +25,6 @@ sees effort as the path to mastery
 learns from criticism
 finds lessons and inspiration in the success of others
 I must admit that I do not always nobly follow these bullet points, I wish I did but I don't. But I guess part of the thinking with a Growth Mindset is embracing challenges and one of the first challenges of this course will be embracing the challenge of accepting a Growth Mindset, or the Rigt Mindset, instead of a Fixed Mindset.
+
+Outline:
+Thesis - A student's learning efforts should focus on the Right Mindset because it allows most individuals to learn in the most effective way without damaging their spirit. 
