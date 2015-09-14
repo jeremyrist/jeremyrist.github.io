@@ -1,2 +1,2 @@
   
-####  Journal Week 2:
+#### Reflections on Week 2:
