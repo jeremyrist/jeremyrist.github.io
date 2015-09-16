@@ -7,7 +7,7 @@ I like the flow of the class so far. I like the energy of the students and the t
 
 We learned a lot in the second week, unfortunately for me it didn't involve yak shaving stuff so I had to go back and re-learn the basics. I understand that yak shaving is incredibly important because if you do it wrong it will f**k up the whole enterprise. Correcting code is a simple and sometimes fun process, but correcting misplaced files and folders and whatnot is a drag. You need to yak shave properly so that the attention can be on the code and the logic and not other things.
 
-Here are some bullet points from my week 2 notes:
+Here are some summaries from my week 2 notes:
 
 * How do I alter control flow? 
 * Loops, functions, conditions, PEMDAS  
