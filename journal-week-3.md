@@ -7,11 +7,11 @@ What did we do in week 3?
 
 * And! 3 CSS properties that can affect layout are:
 
-    1. Display: block, inline, flex, inline-block, none
-
-    2. Float: left and right
-
-    3. Position: relative, absolute, fixed
+        1. Display: block, inline, flex, inline-block, none
+    
+        2. Float: left and right
+    
+        3. Position: relative, absolute, fixed
 
 
 * The default value for display depends on the element. The default value for float is none. The default value for position is relative.
@@ -23,13 +23,20 @@ What did we do in week 3?
 * JS Events: You can trigger an event in JS on a specific DOM element with a payload of information.
 
 * Review on how to Github properly:
-      1. Read the assignment
-      2. New Issue (name it and paste the checklist into the description)
-      3. Merge PRs
-      4. Create new branches
-      5. Make changes, minimal first
-      6. Open new PR for each Repo being altered
-      7. Paste link to PR in Issue
+
+        1. Read the assignment
+
+        2. New Issue (name it and paste the checklist into the description)
+
+        3. Merge PRs
+
+        4. Create new branches
+
+        5. Make changes, minimal first
+
+        6. Open new PR for each Repo being altered
+
+        7. Paste link to PR in Issue
 
 * Pseudo code is a way of writing code in plain English.
 * Responsive web design is a way of making websites translate across phones, tablets and desktops.
@@ -43,19 +50,24 @@ What did we do in week 3?
 
 * Here's a couple code examples that you need to remember:
 * JS.....
-      if (condition) {
-        statements;
-      }
+
+          if (condition) {
+            statements;
+          }
 
 * CSS....
-      selector {
-        property: value;
-      }
+
+          selector {
+            property: value;
+          }
 
 * In CSS everything inherits from the Body tag, so it's a good place to start for default properties.
 
 `3 rules of the cascade:`
+
       1. Inheritance - some properties are inherited by the children
+
       2. Specificity - if you increase specificity you can override inheritance, use more selectors or different selectors
+
       3. Order - based on the entire rule, top to bottom, earlier rules get clobbered by later properties
 
