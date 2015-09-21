@@ -1,42 +1,60 @@
 
 What did we do in week 3? 
 
-This file is for topics that are related to your experience last week (week 2) but that don't fit into your main journal.
+* Much like The Donald, I don't have time for political correctness, and I also don't have time for philosophical reflection on my current state of mind so here's some bullet points from week 3.
 
-jQuery is a brand new thing that we learned today. It's an external library.
+* jQuery is a brand new thing that we learned. It's an external library. It serves to help abbreviate common JavaScript terms like "addEventListenerAll" or others. It seems like most JavaScript (JS) language follows similar patterns and so jQuery was created to take those patterns and shorten them. If writing good code is an antonym of being long-winded then you can see how this would help. You just have to be sure to include a link to the jQuery library somehwere in your HTML.
 
-And! 3 CSS properties that can affect layour are:
+* And! 3 CSS properties that can affect layout are:
 
-Display: block, inline, flex, inline-block, none
-Float: left and right
-Position: relative, absolute, fixed
-The default value for display depends on the element. The default value for float is none. The default value for position is relative.
+1. Display: block, inline, flex, inline-block, none
 
-User story
-JS allows websites to be interactive
-JS Events
-Review how to Github properly
-Pseudo code
-Responsive web design
-eventListeners
-C.R.U.D.
-jQuery is an external library
-cdn hosts libraries
-grid-based layout
-box-model: margin, border, padding, content-area
-"If applied this commit will..."
+2. Float: left and right
 
+3. Position: relative, absolute, fixed
+
+
+* The default value for display depends on the element. The default value for float is none. The default value for position is relative.
+
+* User story is a way to pseudo code some web function.
+* Example: A `user` can do `something` so that `someone` can get `some benefit`.
+
+* JS allows websites to be interactive
+* JS Events: You can trigger an event in JS on a specific DOM element with a payload of information.
+
+* Review on how to Github properly:
+1. Read the assignment
+2. New Issue (name it and paste the checklist into the description)
+3. Merge PRs
+4. Create new branches
+5. Make changes, minimal first
+6. Open new PR for each Repo being altered
+7. Paste link to PR in Issue
+
+* Pseudo code is a way of writing code in plain English.
+* Responsive web design is a way of making websites translate across phones, tablets and desktops.
+* eventListeners help trigger JS
+* C.R.U.D. stands for "Create, Read, Update, Delete"
+* jQuery is an external library
+* cdn hosts libraries
+* grid-based layout is what you get with CSS
+* box-model: margin, border, padding, content-area (from largest to smallest)
+* "If applied this commit will..." is a good way to think about how to write commit messages
+
+* Here's a couple code examples that you need to remember:
+* JS.....
 if (condition) {
   statements;
 }
 
+* CSS....
 selector {
   property: value;
 }
 
-In CSS everything inherits from the Body tag, so it's a good place to start for default properties.
+* In CSS everything inherits from the Body tag, so it's a good place to start for default properties.
 
-3 rules of the cascade:
+`3 rules of the cascade:`
 1. Inheritance - some properties are inherited by the children
 2. Specificity - if you increase specificity you can override inheritance, use more selectors or different selectors
 3. Order - based on the entire rule, top to bottom, earlier rules get clobbered by later properties
