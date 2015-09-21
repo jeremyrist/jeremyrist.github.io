@@ -14,4 +14,8 @@
 
 * When you click `inspect element` you are shown the HTML of the webpage and can see what `id` or `class` or `element` or whatever you clicked on, you can learn more about it.
 
+* If you're into abstract art then the image below is for you. It's an abstract way of looking at a webpage.
+
 ![img](http://zengrids.com/images/limitless-layouts.png)
+
+* All these suckers really are is a series of boxes with information inside them! 
