@@ -1,9 +1,9 @@
 
-What did we do in week 3? 
+## What did we do in week 3? 
 
 * Much like Scott Walker, I'm about to drop out...just kidding. But I wanted to make a Scott Walker joke so there you have it. For anyone interested that article we saw on NY Times this morning was pretty interesting about how Walker failed despite having millions of dollars from Super PACs. 
 
-* Below you will find some bullet points from the highlights of week 3.
+### Below you will find some bullet points from the highlights of week 3.
 
 * jQuery is a brand new thing that we learned. It's an external library. It serves to help abbreviate common JavaScript terms like "addEventListenerAll" or others. It seems like most JavaScript (JS) language follows similar patterns and so jQuery was created to take those patterns and shorten them. If writing good code is an antonym of being long-winded then you can see how this would help. You just have to be sure to include a link to the jQuery library somehwere in your HTML.
 
