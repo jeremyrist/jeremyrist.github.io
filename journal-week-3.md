@@ -75,7 +75,7 @@
 
 ## Super Fun Lil' Thang:
 
-* The other over-acheivers in the class seem to have a good grasp on the command line stuff but here's a fun one that I found today that helps make a little short cut.
+* The other peeps in the class seem to have a good grasp on the command line stuff but here's a fun one that I found today that helps make a little short cut.
 
 * A [shortcut](http://stackoverflow.com/questions/6089294/why-do-i-need-to-do-set-upstream-all-the-time), which doesn't depend on remembering the syntax for `git branch --set-upstream` is to do:
 
