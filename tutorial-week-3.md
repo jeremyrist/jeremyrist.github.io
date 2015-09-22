@@ -18,4 +18,4 @@
 
 ![img](http://zengrids.com/images/limitless-layouts.png)
 
-* All these suckers really are is a series of boxes with information inside them! 
+* All websites really are is a series of boxes with information inside them! 
