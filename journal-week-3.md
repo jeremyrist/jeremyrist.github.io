@@ -6,7 +6,7 @@
 ### Below you will find some bullet points from the highlights of week 3.
 
 ##`CSS`
-##### _CSS was the main focus of week 3. It stands for Cascading Style Sheet. It's used to alter the look and the format of websites._
+##### _CSS was the main focus of week 3. It stands for Cascading Style Sheets. It's used to alter the look and the format of websites._
 
 * 3 CSS properties that can affect layout are:
 
