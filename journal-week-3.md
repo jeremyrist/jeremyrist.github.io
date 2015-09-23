@@ -5,9 +5,6 @@
 
 ### Below you will find some bullet points from the highlights of week 3.
 
-##`jQuery`
-* `jQuery` is a brand new thing that we learned. It's an external library. It serves to help abbreviate common JavaScript terms like "addEventListenerAll" or others. It seems like most JavaScript (JS) language follows similar patterns and so `jQuery` was created to take those patterns and shorten them. If writing good code is synonymous with being "short and sweet" then you can see how this would help. You just have to be sure to include a link to the `jQuery` library in the header of your HTML.
-
 ##`CSS`
 ##### _CSS was the main focus of week 3. It stands for Cascading Style Sheet. It's used to alter the look and the format of websites._
 
@@ -28,6 +25,9 @@
       2. Specificity - if you increase specificity you can override inheritance, use more selectors or different selectors
 
       3. Order - based on the entire rule, top to bottom, earlier rules get clobbered by later properties
+
+##`jQuery`
+* `jQuery` is a brand new thing that we learned. It's an external library. It serves to help abbreviate common JavaScript terms like "addEventListenerAll" or others. It seems like most JavaScript (JS) language follows similar patterns and so `jQuery` was created to take those patterns and shorten them. If writing good code is synonymous with being "short and sweet" then you can see how this would help. You just have to be sure to include a link to the `jQuery` library in the header of your HTML.
 
 ##`User Stories`
 * User story is a way to pseudo code some web function.
