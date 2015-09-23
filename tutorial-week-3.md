@@ -13,7 +13,7 @@
 
 * A good way to do this and learn about the `Grid-Based Layout` is to use the `inspect element` function that's already loaded in your web browser.
 
-* #### `Inspect Element` is a developer tool that lets you see the `HTML`, `CSS`, and `JavaScript` of a page.
+* #### `Inspect Element` is a developer tool that lets you see the `HTML`, `CSS`, and `JavaScript` of a page. [qualtrics](http://www.qualtrics.com/university/researchsuite/developer-tools/custom-programming/inspect-element-chrome-developer-tools/)
 
 ![img](http://4.bp.blogspot.com/-DQJovGdp9gA/ThQKg75XpmI/AAAAAAAAAQE/jB7VPaM01H8/s1600/inspect_element.png)
 
