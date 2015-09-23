@@ -21,7 +21,7 @@
 
 * When you click `inspect element` you are shown the `HTML`, `CSS`, and `JavaSript` of the webpage and can see what `id` or `class` or `element` or whatever you clicked on.. you can learn more about it.
 
-* If you're into abstract art then the image below is for you. It's a way of looking at a webpage.
+* If you're into abstract art then the image below is for you. It's a way of looking at how a webpage is balanced.
 
 ![img](http://zengrids.com/images/limitless-layouts.png)
 
