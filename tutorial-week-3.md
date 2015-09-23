@@ -1,10 +1,11 @@
-## Grid-Based Layout:
+[## Grid-Based Layout:](http://www.smashingmagazine.com/2007/04/designing-with-grid-based-approach/)
 
 #### So what's the deal with web pages? How do they look like that? How is everything balanced on the page?
 
 * In this brief tutorial we will talk about the `Grid-Based Layout`. 
 
 * This term is meant to describe a design method, like a way of organizing your webpage.
+      * "The main idea behind grid-based designs is a solid _visual_ and _structural_ balance of web-sites you can create with them." [Vitaly Friedman](http://www.smashingmagazine.com/2007/04/designing-with-grid-based-approach/)
 
 * The "Grids" in `Grid-based Layout` can also be referred to as boxes since they look like rectangles or squares. 
 
@@ -23,3 +24,6 @@
 ![img](http://zengrids.com/images/limitless-layouts.png)
 
 * All websites really are is a series of boxes with information inside them! 
+
+### Potentially helpful hint! 
+      * If you click on [this](http://www.responsivegridsystem.com/calculator/) it seems like a cool website that might help us make grids more easily but it looks like it includes `divs` so David might [hate it](http://www.responsivegridsystem.com/calculator/)...
