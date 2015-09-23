@@ -2,7 +2,9 @@
 
 * In this brief tutorial we will talk about the Grid-Based Layout. 
 
-* This term is meant to describe what you get when you use CSS to design a web page. 
+* This term is meant to describe what you get when you use CSS to design a web page.
+
+* But as Kelly corrected me on, "Not ALWAYS...it's more like a design method that you can use CSS for!"
 
 * The grids can also be referred to as boxes since they literally look like rectangles or squares. 
 
