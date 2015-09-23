@@ -1,3 +1,5 @@
+![img](http://g01.a.alicdn.com/kf/HTB176GWIpXXXXa9XVXXq6xXFXXXM/American-Beech-Design-Cosmetics-Storage-Box-For-Makeup-Girls-Full-Wooden-Big-Capacity-9-Grids-In.jpg)
+
 ## [Grid-Based Layout:](http://www.smashingmagazine.com/2007/04/designing-with-grid-based-approach/)
 
 #### So what's the deal with web pages? How do they look like that? How is everything balanced on the page?
