@@ -1,4 +1,4 @@
-[## Grid-Based Layout:](http://www.smashingmagazine.com/2007/04/designing-with-grid-based-approach/)
+## [Grid-Based Layout:](http://www.smashingmagazine.com/2007/04/designing-with-grid-based-approach/)
 
 #### So what's the deal with web pages? How do they look like that? How is everything balanced on the page?
 
