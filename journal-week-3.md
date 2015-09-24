@@ -1,7 +1,7 @@
 
 ## What did we do in week 3? 
 
-* Much like Scott Walker, I'm about to drop out...just kidding. But I wanted to make a Scott Walker joke so there you have it. For anyone interested, that article we saw on NY Times this morning was pretty neat about how Walker failed despite having millions of dollars from Super PACs. Money can't always buy you elections, but it can buy you intensive classes in Front-End Engineering! _(Transition...)_ 
+* Much like Scott Walker, I'm about to drop out...just kidding. But I wanted to make a Scott Walker joke so there you have it. For anyone interested, [that article we saw on NY Times](http://www.nytimes.com/2015/09/23/us/politics/scott-walkers-demise-shows-limits-of-super-pac-money-model.html?&hp&action=click&pgtype=Homepage&module=photo-spot-region&region=top-news&WT.nav=top-news&_r=0a) this morning was pretty neat about how Walker failed despite having millions of dollars from Super PACs. Money can't always buy you elections, but it can buy you intensive classes in Front-End Engineering! _(Transition...)_ 
 
 ### Below you will find some bullet points from the highlights of week 3.
 
