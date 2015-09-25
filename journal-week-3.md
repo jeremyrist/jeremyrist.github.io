@@ -85,4 +85,4 @@
         
         *you can replace "styles" with whatever ".scss" file you have and the ".scss" file infront of that is referring to the "scss" folder that contains the ".scss" files
         
-        *scss scss scss scss scss scss scss scss scss scss scss scss scss*
+*scss scss scss scss scss scss scss scss scss scss scss scss scss*
