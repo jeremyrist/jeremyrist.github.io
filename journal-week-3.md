@@ -2,7 +2,7 @@
 ## What did we do in week 3? 
 
 ![img](http://farm6.static.flickr.com/5098/5477777136_bc952ebe7e_m.jpg)
-* Much like Scott Walker, I'm about to drop out...just kidding. But I wanted to make a Scott Walker joke so there you have it. For anyone interested, [that article we saw on NY Times](http://www.nytimes.com/2015/09/23/us/politics/scott-walkers-demise-shows-limits-of-super-pac-money-model.html?&hp&action=click&pgtype=Homepage&module=photo-spot-region&region=top-news&WT.nav=top-news&_r=0a) this morning was pretty neat about how Walker failed despite having millions of dollars from Super PACs. Money can't always buy you elections, but it can buy you intensive classes in Front-End Engineering! _(Transition...)_ 
+* Much like Scott Walker, I'm about to drop out...just kidding. But I wanted to make a Scott Walker joke so there you have it. For anyone interested, [that article we saw on the NY Times](http://www.nytimes.com/2015/09/23/us/politics/scott-walkers-demise-shows-limits-of-super-pac-money-model.html?&hp&action=click&pgtype=Homepage&module=photo-spot-region&region=top-news&WT.nav=top-news&_r=0a) this morning was pretty neat about how Walker failed despite having millions of dollars from Super PACs. Money can't always buy you elections, but it can buy you intensive classes in Front-End Engineering! _(Transition...)_ 
 
 ### Below you will find some bullet points from the highlights of week 3.
 
@@ -39,7 +39,7 @@
 
         1. Read the assignment
 
-        2. New Issue (name it and paste the checklist into the description)
+        2. New Issue (name it and paste the checklist into the description and **make sure you're in the correct repository**)
 
         3. Merge PRs
 
@@ -71,7 +71,7 @@
 
 ## Super Fun Lil' Thang:
 
-* The other peeps in the class seem to have a good grasp on the command line stuff but here's a fun one that I found today that helps make a little short cut.
+* Here's a fun one that I found today that helps make a little short cut.
 
 * A [shortcut](http://stackoverflow.com/questions/6089294/why-do-i-need-to-do-set-upstream-all-the-time), which doesn't depend on remembering the syntax for `git branch --set-upstream` is to do:
 
@@ -82,3 +82,7 @@
 * This is helping us turn our `sass` into readable `css`:
 
         `node-sass --output-style expanded --output css/ scss/styles.scss`
+        
+        *you can replace "styles" with whatever ".scss" file you have and the ".scss" file infront of that is referring to the "scss" folder that contains the ".scss" files
+        
+        *scss scss scss scss scss scss scss scss scss scss scss scss scss*
