@@ -39,7 +39,7 @@
 
         1. Read the assignment
 
-        2. New Issue (name it and paste the checklist into the description)
+        2. New Issue (name it and paste the checklist into the description and **make sure you're in the correct repository**)
 
         3. Merge PRs
 
@@ -71,7 +71,7 @@
 
 ## Super Fun Lil' Thang:
 
-* The other peeps in the class seem to have a good grasp on the command line stuff but here's a fun one that I found today that helps make a little short cut.
+* Here's a fun one that I found today that helps make a little short cut.
 
 * A [shortcut](http://stackoverflow.com/questions/6089294/why-do-i-need-to-do-set-upstream-all-the-time), which doesn't depend on remembering the syntax for `git branch --set-upstream` is to do:
 
@@ -82,3 +82,7 @@
 * This is helping us turn our `sass` into readable `css`:
 
         `node-sass --output-style expanded --output css/ scss/styles.scss`
+        
+        *you can replace "styles" with whatever ".scss" file you have and the ".scss" file infront of that is referring to the "scss" folder that contains the ".scss" files
+        
+        *scss scss scss scss scss scss scss scss scss scss scss scss scss*
