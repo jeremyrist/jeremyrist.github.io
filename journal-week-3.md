@@ -83,6 +83,6 @@
 
         `node-sass --output-style expanded --output css/ scss/styles.scss`
         
-        _you can replace "styles" with whatever ".scss" file you have and the ".scss" file infront of that is referring to the "scss" folder that contains the ".scss" files_
+     _you can replace "styles" with whatever ".scss" file you have and the ".scss" file infront of that is referring to the "scss" folder that contains the ".scss" files_
         
 *scss scss scss scss scss scss scss scss scss scss scss scss scss*
