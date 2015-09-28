@@ -19,13 +19,10 @@
 
 ![img](http://4.bp.blogspot.com/-DQJovGdp9gA/ThQKg75XpmI/AAAAAAAAAQE/jB7VPaM01H8/s1600/inspect_element.png)
 
-* When you click `inspect element` you are shown the `HTML`, `CSS`, and `JavaSript` of the webpage and can see what `id` or `class` or `element` or whatever you clicked on.. you can learn more about it.
+* When you click `inspect element` you are shown the `HTML`, `CSS`, and `JavaSript` of the webpage and can see what `id`, `class`, or `element` it is. You can also see what different properties have been assigned to it.
 
 * If you're into abstract art then the image below is for you. It's a way of looking at how a webpage is balanced.
 
 ![img](http://zengrids.com/images/limitless-layouts.png)
 
 * All websites really are is a series of boxes with information inside them! 
-
-### Potentially helpful hint! 
-      * If you click on [this](http://www.responsivegridsystem.com/calculator/) it seems like a cool website that might help us make grids more easily but it looks like it includes `divs` so David might [hate it](http://www.responsivegridsystem.com/calculator/)...
