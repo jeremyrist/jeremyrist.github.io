@@ -11,7 +11,7 @@
 * Because arrays are most useful for storing data and when you store data it's also nice to be able to retrieve that data so you can display it or do whatever you need to do to it.
 
 ###How do we do this?###
-*The **`pop()`** method will help you do this!
+The **`pop()`** method will help you do this!
 
 ####Steps:####
 1. Define your array.
