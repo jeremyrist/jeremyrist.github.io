@@ -31,4 +31,14 @@ The **`pop()`** method will help you do this!
 ####Fun Fact!####
 * The `shift()` method is the exact opposite of the `pop()` method, it returns the first item.
 
-And there you have it.. that's how you take out the last element of an array. POP POP!
+* Another opposite of the `pop()` method is `push()`. But with `push()`, instead of extracting the last item from an array, it _ADDS_ an item to the _end_ of the array. So with our example that would look like this:
+
+            `var goodRap = ["Action Bronson", "Curren$y", "Kanye West", "Kendrick Lamar"];`
+            
+            `goodRap.push("Vince Staples");`
+
+            > and the result would be...
+            `Action Bronson,Curren$y,Kanye West,Kendrick Lamar,Vince Staples`
+
+And there you have it.. that's how you take out the last element of an array plus a lil' extra. POP POP!
+
