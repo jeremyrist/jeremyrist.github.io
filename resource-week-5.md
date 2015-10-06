@@ -1,1 +1,2 @@
-
+This is the first ting that comes to mind cuz of the HW today...
+http://www.jacklmoore.com/notes/jquery-tabs/
