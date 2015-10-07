@@ -11,3 +11,5 @@ or
 or 
 
 `node-sass src/scss/main.scss src/css/main.css`
+
+All of these are the same...
