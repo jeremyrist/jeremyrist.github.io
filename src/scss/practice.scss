@@ -25,7 +25,12 @@ $pad: 20px;
 	width: 10.5%;
   margin-top: 5%;
 }
-
+.offense {
+  background-color: white;
+}
+.defense {
+  background-color: gray;
+}
 .module {
   padding: $pad;
   background: #eee;
