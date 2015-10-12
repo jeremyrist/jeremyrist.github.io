@@ -99,11 +99,16 @@ textarea {
    @import 'mobile';
    @import 'tablet';
 
-h1:hover {
-   color: yellow;
+h1 {
+  color: blue;
 }
-p:hover {
-  color: red;
+
+h1:hover + p {
+   color: yellow;
+   display: none;
+}
+p {
+  display: block;
 }
 
 
