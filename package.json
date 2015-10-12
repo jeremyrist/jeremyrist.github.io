@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "browser-sync start --server --startPath='src/index.html' --files='src/index.html'",
   },
   "repository": {
     "type": "git",
