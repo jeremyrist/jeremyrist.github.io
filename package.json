@@ -1,0 +1,25 @@
+{
+  "name": "jeremyrist.github.io",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremyrist/jeremyrist.github.io.git"
+  },
+  "author": "jeremy rist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeremyrist/jeremyrist.github.io/issues"
+  },
+  "homepage": "https://github.com/jeremyrist/jeremyrist.github.io#readme",
+  "devDependencies": {
+    "bower": "^1.5.3",
+    "browser-sync": "^2.9.8",
+    "gulp": "^3.9.0",
+    "node-sass": "^3.3.3"
+  }
+}
