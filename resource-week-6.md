@@ -1,4 +1,4 @@
-##This will be the resource page:##
+##This is the Resource Page:##
 
 `GIT REBASE`
 
