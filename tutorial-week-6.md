@@ -15,6 +15,7 @@ How to do it:
 -------------------------------------------------------
 
 How it looks in example code:
+
 1. `<img src="../specs/sunset.jpg"></img>`
 
 2. `width: 5em;`
