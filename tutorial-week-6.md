@@ -12,7 +12,7 @@ _How to do it:_
 
 3. Make sure that the height and width are the same!
 
-4. Change the border-raidus to 50%
+4. Change the border-radius to 50%
 
 -------------------------------------------------------
 
