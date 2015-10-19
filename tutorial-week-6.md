@@ -1,9 +1,11 @@
 ##Tutorial Week 6:##
 
-What you will learn:
-* How to make square images circular with `scss`
+_What you will learn:_
 
-How to do it:
+How to make square images circular with `scss`
+
+_How to do it:_
+
 1. Place your image in your `html`
 
 2. Give your image a height and width in `scss`
@@ -14,7 +16,7 @@ How to do it:
 
 -------------------------------------------------------
 
-How it looks in example code:
+_How it looks in example code:_
 
 1. `<img src="../specs/sunset.jpg"></img>`
 
@@ -25,6 +27,6 @@ How it looks in example code:
 
 4. `border-radius: 50%;`
 
-That's how you do it! 
+_That's how you do it!_
 
-That's how you take a square image and turn into a circle.
+_That's how you take a square image and turn into a circle._
