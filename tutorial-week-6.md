@@ -2,7 +2,7 @@
 
 _What you will learn:_
 
-How to make square images circular with `scss`
+**How to make square images circular with `scss`**
 
 _How to do it:_
 
