@@ -100,15 +100,28 @@ textarea {
    @import 'tablet';
 
 
-h1:hover + p {
+h1:hover {
    color: yellow;
-   display: none;
-}
-p {
-  display: block;
 }
 
+@media (max-width: 700px) {
+		.col{
+      background-color: gray;
+			float: none;
+			margin: 10px;
+			width: 70%;
+		}
+	}
 
+@media (max-width: 500px) {
+		.col{
+      background-color: white;
+			float: none;
+			margin: 10px;
+			width: 20%;
+      color: black;
+		}
+	}
 
 
 
