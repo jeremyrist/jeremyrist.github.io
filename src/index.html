@@ -8,22 +8,300 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
-        <!-- Place favicon.ico in the root directory -->
 
-        <link rel="stylesheet" href="src/css/normalize.css">
-        <link rel="stylesheet" href="/src/css/main.css">
-        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
-    </head>
-    <body>
-        <h1>Jeremy's Blog</h1>
-          <p>Tash is cool too</p>
+        <link rel="stylesheet" href="css/pivot.css">
+
+<h1>Jeremy's Blog!</h1>
+        <div class='toggle'>
+          <div class='tabs'>
+            <div class='tab active'>Journal Week 1</div>
+            <div class='tab'>Journal Week 2</div>
+            <div class='tab'>Journal Week 3</div>
+            <div class='tab'>Journal Week 4</div>
+            <div class='tab'>Journal Week 5</div>
+            <div class='tab'>Journal Week 6</div>
+          </div>
+          <div class='panels'>
+            <div class='panel'>
+              This is where the journal will take place:
+
+              ### [Reflections on Week 1:](https://twitter.com/UFCONFOX/status/640332064651251712)
+
+              The first week at the Iron Yard was the hardest class I've ever taken. I've been out of school for a little over 3 years now and it is clear that I was out of shape. If you click on "Reflections on Week 1" you will see how the first couple days felt for me, metaphorically speaking.
+
+              Thankfully I had done all of the pre-work and I at least had heard of most of the concepts but that was really all that I had. From primitive values to array methods, everything in between was new information. The immersive learning technique as well as the Socratic Method threw me off at first but by the end of the week I was more comfortable.
+
+              That was the running theme with almost everything as well. At the beginning of the week I was completely disoriented and lost but by the end I was starting to get more familiar and comfortable. So far I've really enjoyed all of my classmates and I think we're all really lucky to have two great instructors. I can't believe how hard that first week was but we're all still here and we're all still alive. I can't wait to see where we go!
+
+              Here are some of my main takeaways from Week 1:
+
+               * _we break things and occasionally fix them_
+
+               * _node is how you use javascript not on a website_
+
+               * _node is a REPL (read evaluate print loop)_
+
+               * _4 primitive values: null, Boolean, Number, Strings_
+
+               * _smashing things together is concatenation_
+
+               * _[mozilla mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript) is the place to go for javascript reference manual_
+
+               * _an expression is any piece of a statement_
+
+               * _a program goes from statement to statement_
+
+               * _the control flow is how you go from statement to statement, top-down/left-right_
+
+               * _function is a snippet of code that when told to do its job executes everything inside the curly braces_
+
+               * _you can't invoke a function that hasn't been defined_
+
+               * _an expression has a right and a left, one side is an operand and the other side is another operand, the operator is in the middle_
+
+               * _the default value every function returns is undefined_
+
+               * _package.json is how you npm test, npm init will help you get a package.json file_
+            </div>
+            <div class='panel'>
+                ### [Reflections on Week 2:](https://www.youtube.com/watch?v=9VDvgL58h_Y)
+
+                The second week of the Iron Yard featured significantly less freakouts than the first. I'm becoming more accustomed to the way things work around here. The style of teaching is for sure different than Brandeis, or even High School for that matter, but I'm starting to appreciate it for what it is: different. Thanks to the Growth Mindset video I'm okay with being involved in something different and I see it as a good thing. The power of "yet" is a very real power.
+
+                I like the flow of the class so far. I like the energy of the students and the teachers. Every now and then I struggle to pay attention and lose focus but that's just part of being a student. Honestly, I'm surprised I've been so engaged thus far. I'm not a very "techy" guy and there's a whole lot of other things going on in my life at the moment but I'm still able to lock in when I need to. All that time off of school did not exactly make me a more attentive person but it did make me more driven.
+
+                We learned a lot in the second week, unfortunately for me it didn't involve yak shaving stuff so I had to go back and re-learn the basics. I understand that yak shaving is incredibly important because if you do it wrong it will f**k up the whole enterprise. Correcting code is a simple and sometimes fun process, but correcting misplaced files and folders and whatnot is a drag. You need to yak shave properly so that the attention can be on the code and the logic and not other things.
+
+                Here are some summaries from my week 2 notes:
+
+                * How do I alter control flow?
+                * Loops, functions, conditions, PEMDAS
+                * When you push you will see your changes and final code in github
+                * DOM is short for Document Object Model
+                * Object is synonymous with dictionary
+                * The HTML document is an object
+                * Therefore you can see it as a dictionary of the HTML identifying and defining diff parts in list form
+                * Progressive enhancement assumes you have nothing and uses javascript to make the experience better
+                * https stands for hypertext transfer protocl secure
+                * html stands for hypertext markup language
+                * href stands for hypertext reference
+                * a website consists of an "https" and a "host" and a "path"
+            </div>
+            <div class='panel'>
+              ![img](https://www.3weekdiet.com/images/bigbooks2.png)
+              ## What did we do in week 3?
+
+              ![img](http://farm6.static.flickr.com/5098/5477777136_bc952ebe7e_m.jpg)
+              * Much like Scott Walker, I'm about to drop out...just kidding. But I wanted to make a Scott Walker joke so there you have it. For anyone interested, [that article we saw on the NY Times](http://www.nytimes.com/2015/09/23/us/politics/scott-walkers-demise-shows-limits-of-super-pac-money-model.html?&hp&action=click&pgtype=Homepage&module=photo-spot-region&region=top-news&WT.nav=top-news&_r=0a) this morning was pretty neat about how Walker failed despite having millions of dollars from Super PACs. Money can't always buy you elections, but it can buy you intensive classes in Front-End Engineering! _(Transition...)_
+
+              ### Below you will find some bullet points from the highlights of week 3.
+
+              ##`CSS`
+              ##### _CSS was the main focus of week 3. It stands for Cascading Style Sheets. It's used to alter the look and the format of websites._
+
+              * 3 CSS properties that can affect layout are:
+
+                      1. Display: `block, inline, flex, inline-block, none`
+
+                      2. Float: `left and right`
+
+                      3. Position: `relative, absolute, fixed`
+
+              * In CSS everything inherits from the Body tag, so it's a good place to start for default properties.
+
+              `3 rules of the cascade:`
+
+                    1. Inheritance - some properties are inherited by the children
+
+                    2. Specificity - if you increase specificity you can override inheritance, use more selectors or different selectors
+
+                    3. Order - based on the entire rule, top to bottom, earlier rules get clobbered by later properties
+
+              ##`jQuery`
+              * `jQuery` is a brand new thing that we learned. It's an external library. It serves to help abbreviate common JavaScript terms like "addEventListenerAll" or others. It seems like most JavaScript (JS) language follows similar patterns and so `jQuery` was created to take those patterns and shorten them. If writing good code is synonymous with being "short and sweet" then you can see how this would help. You just have to be sure to include a link to the `jQuery` library in the header of your HTML.
+
+              ##`User Stories`
+              * User story is a way to pseudo code some web function.
+              * Example: A `user` can do `something` so that `someone` can get `some benefit`.
+
+              ##`Github Yak-Shaving`
+              * Review on how to Github properly:
+
+                      1. Read the assignment
+
+                      2. New Issue (name it and paste the checklist into the description and **make sure you're in the correct repository**)
+
+                      3. Merge PRs
+
+                      4. Create new branches
+
+                      5. Make changes, minimal first
+
+                      6. Open new PR for each Repo being altered
+
+                      7. Paste link to PR in Issue
+
+              ##`Commit Messages`
+              * "If applied this commit will..." is a good way to think about how to write commit messages
+
+              ##Random Review:
+              * Here's a couple code examples that we should remember:
+              * JS.....
+
+                        if (condition) {
+                          statements;
+                        }
+
+              * CSS....
+
+                        selector {
+                          property: value;
+                        }
+
+
+              ## Super Fun Lil' Thang:
+
+              * Here's a fun one that I found today that helps make a little short cut.
+
+              * A [shortcut](http://stackoverflow.com/questions/6089294/why-do-i-need-to-do-set-upstream-all-the-time), which doesn't depend on remembering the syntax for `git branch --set-upstream` is to do:
+
+                       `git push -u origin my_branch`
+
+              ## Another helpful trick:
+
+              * This is helping us turn our `sass` into readable `css`:
+
+                      `node-sass --output-style expanded --output css/ scss/styles.scss`
+
+                   _you can replace "styles" with whatever ".scss" file you have and the ".scss" file infront of that is referring to the "scss" folder that contains the ".scss" files_
+
+              *scss scss scss scss scss scss scss scss scss scss scss scss scss*
+            </div>
+            <div class='panel'>
+              ##**Howzabout Week 4?**##
+
+              Week 4 was a difficult week for me but I made it and now I can look back on it. It's funny how time smoothes everything over. I was really frustrated last week because I was starting to feel left out and left behind when it came to the material we were covering. Coming into this course it said that you didn't need a background in coding to succeed at the Iron Yard but I found myself questioning that a lot. The Chessboard Assignment was a real beast of a task and I came nowhere close to solving the logic behind it...I was happy enough just getting my pieces on the board and centered in their squares.
+
+              I like to think that I'm navigating this class like a good cornerback would, say a Josh Norman-type, it's obvious at this point that I might not be the strongest player on the field but even though I might get beat a lot...I'll make the plays that matter and I'll get better as the game goes on.
+
+              ![img](http://i1.wp.com/blackandbluereview.com/wp-content/uploads/2015/09/EBX3362.jpg?resize=675%2C475)
+
+              That being said, I'm still happy with my progress and happy with how the class is moving. Last week I was able to help out Matt with some command line stuff and yak-shaving things and that made me feel really good. There is a lot of value in being able to teach/help a classmate. Finding the right balance between teaching and getting taught will be important moving forward.
+
+              I was most frustrated last week around Wednesday when I thought we were going to have a lecture on how to setup the chessboard but instead went over `package.json` stuff and command line controls. The lecture was over my head and I think I was mostly upset because I was experiencing that awful feeling of being lost and I was too embarrassed to speak up. I need to be sure not to allow a whole hour to go by where I'm not engaged and clueless when it comes to what the lecture is about. The stakes are too high here to allow for that.
+
+              But at the end of the day it comes back to what am I doing, or what are we doing, to learn how to make websites and to a larger extent how to _think_ better. Breaking large problems down into smaller ones is an over-arching theme that we should all be aware of. I've started making my own personal website on the side for my producer-nickname "Funkleberry" and I'm planning on taking things we learn from class to build a website for that. This will be a good way to take what we're learning in class and translate it to a real-world scenario. I would suggest everyone else do the same!
+
+              ###_Here's a recap of my notes from class:_###
+
+              **To get JSON and Mocha/Chai:**
+                1. `cd` to correct folder
+                2. `npm init` to get the `.json`
+                3. `git add` and `git commit`
+                4. `npm install --save mocha chai`
+
+
+              **Random Stuff**
+              * `html + tab` fills in basic HTML starting point
+              * `browser-sync start --server --directory --files="css/*css *.html js/*.js` to get browser sync to respond to all of your updated files
+              * You can create a "style" tag and play with CSS in HTML
+              * "Most hipsters use a CSS preprocessor" - Instructor David
+
+              **Font Awesome**
+              * Paste a link in the header
+              * Follow font-awesome's web instructions
+
+              **SCSS/sass**
+              * The browser doesn't understand `sass`, it understands `css`
+              * `scss` is modeled similar to `html`
+              * `sass` is synonymous with `scss`
+              * `sass` acts like a translator and a compressor
+              * `npm install node-sass --save` will install it locally
+              * `npm install --global node-sass --save` will install it globally meaning you can find it in the `/usr/local/lib/` and this means every user on your computer will have access to it
+
+              **HTML**
+              * The basic structure of an HTML tag:
+                    * `<tag-name attribute-name="attribute value"> <!-- tag contents --> </tag-name>`
+
+              **Self-Closing Tags**
+              * The following are examples of "self-closing tags", meaning that they don't need a closing tag:
+                    * `<img>`
+                    * `<hr>`
+                    * `<meta>`
+                    * `<link>`
+                    * `<break>`
+
+              **Package.json**
+              * `package.json` is a dictionary for specific functions
+              * It stores information and you can pull API information from this
+              * It's kind of like the manifest (aka packing slip) for your project, like the sheet of paper from Amazon that tells you all about your order
+              * You can look in the `package.json` to see what scripts other developers are running for you
+            </div>
+            <div class='panel'>
+              ##Reflection: Week 5 was crazy.
+
+              ###Here's a summary of my notes:
+
+              * JS links go at the bottom of HTML to let other stuff load first
+
+              * Always put the library link above JS link.
+
+              * Design 101 - start with 3 colors: black, white, medium grey
+
+              * Design 101 - attention is the user's gift to you and it can be taken away
+
+              * .gitignore - throw .gitignore in the css folder when doing sass
+
+              * APIs - endpoints are any URL that the API understands
+
+              * APIs - Postman is an API explorer
+
+              * node-sass - `node-sass current-file location-file`
+
+              * node-sass - example: `node-sass src/scss/main.scss src/css/main.css` (it's that simple)
+
+              * Key words are magic words
+
+              * Floating doesn't contribute to vertical height
+            </div>
+            <div class='panel'>
+              ##Reflection on Week 6:##
+
+              Week 6 was a tiring week but just when I was wearing down I was able to find a second wind. I didn't do it all myself, a large amount of credit goes to my friends Van Morrison, Miles Davis, and Merlot. We did it together.
+
+              The hardest assignment was using LODASH to pull out details from an API and insert them inside of double curly braces, also called "mustaches." {{}}
+
+              I feel like I learned a lot and made great progress on the basics of CSS and HTML. I even got more comfortable using JavaScript. With the help of my classmates and tutors I think I can do this!
+
+              _Synopsis of Week 6's notes:_
+
+              * A function inside a function is a called a "callback"
+              * "Composition" is using the result of the function into another function and so on...
+              * `bower` installs things for the BROWSER
+                  * This gets you jQuery!
+              * `npm` installs things for the COMMAND LINE
+              * "tar" is the nerdy version of "zip" files
+              * You can declare a variable in `.scss`
+                  * _example:_ $background-color: #FFF
+              * Google analytics is at the bottom of the HTML
+              * `bower install --save lodash` is faster/smaller than jQuery, based on underscore
+              * You can link it in HTML like jQuery
+              * You gotta link jQuery before you link your JS file/files so jQuery "script" goes above
+              * In the DOM every value can be represented by a STRING
+                  * _example:_ document.querySelector("h3").innerHTML
+              * `<section>` is a good replacement for "div"
+              * OCTICONS need a pseudo class `::before`
+            </div>
+          </div>
+        </div>
+
+
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
-        <script src="src/js/plugins.js"></script>
-        <script src="src/js/main.js"></script>
+        <script src="js/pivot.js"></script>
 
-        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+
         <script>
             (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
             function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;

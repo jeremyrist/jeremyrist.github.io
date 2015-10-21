@@ -100,13 +100,11 @@ textarea {
    @import 'tablet';
 
 
-h1:hover + p {
+h1:hover {
    color: yellow;
-   display: none;
 }
-p {
-  display: block;
-}
+
+
 
 
 
