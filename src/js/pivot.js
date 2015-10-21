@@ -1,3 +1,4 @@
+//Code from David Stump: http://codepen.io/davidstump/pen/eAFKG
 (function () {
     $(function () {
         var toggle;
